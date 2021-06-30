@@ -403,7 +403,7 @@ If you write React Native tutorials, please add them here!
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Awesome React Components](https://habd.as/awesome-react-components/#react-native) | Github | ★★★★ | List of React Native comonents and number of stars |
-| [reactscript.com](http://reactscript.com/react-native/) | Website | ★★★★★ | React Native Componets Website - lots and lots of components! |
+| [React Components](https://www.lipku.com/tag/react-native) | Website | ★★★★★ | React Native Componets Website! |
 | [Libs, Articles and Tutorials](https://android.jlelse.eu/libs-articles-and-tutorials-that-will-help-you-to-make-awesome-react-native-apps-f584060320a1#.z7yhtwsiy) | Github | | |
 | [react-native-grid-component](https://github.com/phil-r/react-native-grid-component) | Github | | |
 | [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) | Github | | |
